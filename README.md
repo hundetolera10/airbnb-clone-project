@@ -29,6 +29,8 @@ Version Control: Git, GitHub
 Hosting/Deployment: (e.g., Render, AWS, or Heroku)
 
 Tools: Visual Studio Code, Linux/Ubuntu Terminal
+
+
 🎨 UI/UX Design Planning
 🧭 Design Goals
 
