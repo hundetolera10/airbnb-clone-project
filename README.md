@@ -70,3 +70,42 @@ Reduces booking errors by guiding users through clear steps.
 Increases conversion rates — users are more likely to complete bookings on an intuitive platform.
 
 Encourages return visits and positive word-of-mouth through ease of use and satisfaction.
+
+
+👥 Project Roles and Responsibilities
+
+A successful project depends on clear communication, collaboration, and well-defined responsibilities. Each team member plays a vital role in ensuring that the AirBnB Clone Project is completed efficiently and meets user expectations.
+
+Role	Responsibilities
+Project Manager (PM)	- Oversees overall project planning and progress.
+- Manages timelines, deliverables, and resources.
+- Coordinates between different teams and ensures goals are met.
+- Tracks milestones and ensures alignment with project objectives.
+Product Owner (PO)	- Defines the product vision and user requirements.
+- Prioritizes features and manages the product backlog.
+- Ensures the final product meets user and business needs.
+- Acts as the main point of contact for stakeholder feedback.
+Scrum Master	- Facilitates agile ceremonies (daily standups, sprint reviews, retrospectives).
+- Removes roadblocks that slow down the team.
+- Encourages collaboration and continuous improvement.
+- Ensures the team follows agile principles.
+Frontend Developers	- Build and style the user interface based on Figma designs.
+- Implement responsive layouts using HTML, CSS, and JavaScript.
+- Integrate frontend with backend APIs.
+- Ensure smooth navigation and a positive user experience.
+Backend Developers	- Develop server-side logic and manage database connections.
+- Design and implement RESTful APIs.
+- Handle data validation, authentication, and authorization.
+- Optimize performance and ensure data security.
+Designers (UI/UX)	- Create and refine mockups, wireframes, and visual assets in Figma.
+- Define color schemes, typography, and layout consistency.
+- Conduct user testing to improve design usability.
+- Ensure design alignment with brand identity and accessibility standards.
+QA/Testers	- Develop and execute test cases for functionality, performance, and usability.
+- Identify and document bugs and issues.
+- Work with developers to ensure issues are resolved.
+- Verify that the final product meets quality standards.
+DevOps Engineers	- Manage deployment pipelines and CI/CD workflows.
+- Ensure smooth integration between development and production environments.
+- Automate build, testing, and deployment processes.
+- Monitor system performance and maintain uptime reliability.
